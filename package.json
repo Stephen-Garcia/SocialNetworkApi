@@ -1,0 +1,21 @@
+{
+  "name": "socialnetworkapi",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.0",
+    "router": "^1.3.6",
+    "routes": "^2.1.0",
+    "validator": "^13.7.0"
+  }
+}
