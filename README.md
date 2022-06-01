@@ -2,15 +2,12 @@
  
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Questions](#questions)
 ## Description
-An application that allows you to save notes quickly and on a clean page.
-## Installation
-Clone the repo, then run NPM Install to install the correct packages
+Built with Mongoose, Express, and Node, this API serves routes for a social communication platform. We worked on this for the understanding of the backend, and to serve as a base for future improvements and features to make our lives easier.
 ## Usage
-Here is a screenshot of the app:
+Here is a gif of the app:
 [![Product Name Screen Shot][product-screenshot]](#)
 ## Questions
 If you have any questions, please contact me through github, listed below:<br />
